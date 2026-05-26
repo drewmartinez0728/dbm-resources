@@ -296,3 +296,16 @@ footer {
     font-size: 18px;
   }
 }
+
+
+.sub-note {
+  text-align: center;
+  margin-top: 14px;
+  color: #7fbfff;
+  font-size: 14px;
+  opacity: .92;
+}
+
+.sub-note strong {
+  color: #38bdf8;
+}
