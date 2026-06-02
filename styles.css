@@ -445,3 +445,10 @@ h1 {
 footer {
   margin-top: 10px !important;
 }
+
+/* Raise biotech logo slightly */
+.logo-wrap{
+    margin-top:-12px !important;
+    margin-bottom:20px !important;
+}
+
