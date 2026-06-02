@@ -322,3 +322,20 @@ footer {
   padding-left: 6px;
   opacity: .95;
 }
+
+
+.code-callout {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(56, 189, 248, 0.14);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  color: #e0f2fe;
+  font-weight: 800;
+}
+
+.code-callout strong {
+  color: #38bdf8;
+  letter-spacing: .04em;
+}
