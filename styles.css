@@ -339,3 +339,18 @@ footer {
   color: #38bdf8;
   letter-spacing: .04em;
 }
+
+
+.logo{
+    width:72px!important;
+    height:72px!important;
+}
+
+.section-title{
+    margin-top:16px!important;
+    margin-bottom:6px!important;
+}
+
+.card{
+    padding:14px 18px!important;
+}
