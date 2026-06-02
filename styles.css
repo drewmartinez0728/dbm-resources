@@ -452,3 +452,15 @@ footer {
     margin-bottom:20px !important;
 }
 
+
+.logo-img {
+  width: 58px !important;
+  height: 58px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: -12px auto 18px auto !important;
+  border: 2px solid rgba(56, 189, 248, 0.85) !important;
+  box-shadow: 0 0 28px rgba(56, 189, 248, 0.35) !important;
+}
+
