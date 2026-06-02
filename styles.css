@@ -86,7 +86,7 @@ body::after {
 
 .hero {
   text-align: center;
-  padding: 6px 0 24px;
+  padding: 0 0 14px;
 }
 
 .hero-tight {
@@ -94,9 +94,9 @@ body::after {
 }
 
 .logo-wrap {
-  width: 104px;
-  height: 104px;
-  margin: 0 auto 18px;
+  width: 78px;
+  height: 78px;
+  margin: 0 auto 10px;
   padding: 3px;
   border-radius: 50%;
   background: linear-gradient(135deg, var(--blue), var(--blue-deep), #7c3aed);
@@ -113,7 +113,7 @@ body::after {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 34px;
+  font-size: 28px;
   letter-spacing: -1px;
   font-weight: 900;
   color: white;
@@ -143,7 +143,7 @@ h1 {
   font-size: clamp(38px, 10vw, 54px);
   line-height: 0.95;
   letter-spacing: -0.045em;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 
 h1 span {
@@ -156,7 +156,7 @@ h1 span {
   line-height: 1.5;
   font-size: 16px;
   max-width: 350px;
-  margin: 0 auto 20px;
+  margin: 0 auto 12px;
 }
 
 .discount-pill {
@@ -166,7 +166,7 @@ h1 span {
   justify-content: center;
   width: 100%;
   max-width: 390px;
-  padding: 14px 16px;
+  padding: 10px 14px;
   border-radius: 18px;
   border: 1px solid var(--border-strong);
   background: rgba(14, 165, 233, 0.12);
@@ -181,7 +181,7 @@ h1 span {
 
 .links {
   display: grid;
-  gap: 16px;
+  gap: 10px;
 }
 
 .resource-card,
@@ -194,8 +194,8 @@ h1 span {
     radial-gradient(circle at 0% 0%, rgba(56, 189, 248, 0.12), transparent 30%);
   color: var(--text);
   text-decoration: none;
-  padding: 20px;
-  min-height: 98px;
+  padding: 15px;
+  min-height: 78px;
   display: grid;
   grid-template-columns: 52px 1fr auto;
   align-items: center;
@@ -224,7 +224,7 @@ h1 span {
 
 .card-copy h2,
 .note-card h2 {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.1;
   margin-bottom: 6px;
   letter-spacing: -0.03em;
@@ -234,7 +234,7 @@ h1 span {
 .note-card p {
   color: var(--muted);
   line-height: 1.42;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .arrow {
@@ -302,7 +302,7 @@ footer {
   text-align: center;
   margin-top: 14px;
   color: #7fbfff;
-  font-size: 14px;
+  font-size: 13px;
   opacity: .92;
 }
 
@@ -312,7 +312,7 @@ footer {
 
 
 .section-label {
-  margin: 14px 0 -4px;
+  margin: 7px 0 -3px;
   color: #38bdf8;
   font-size: 13px;
   font-weight: 900;
