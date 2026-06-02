@@ -354,3 +354,30 @@ footer {
 .card{
     padding:14px 18px!important;
 }
+
+.hero-subtitle{
+    margin-bottom:12px !important;
+}
+
+.discount-pill{
+    margin-bottom:12px !important;
+}
+
+.section-title{
+    margin-top:10px !important;
+    margin-bottom:4px !important;
+}
+
+.card{
+    padding:12px 18px !important;
+}
+
+.cards-container{
+    gap:10px !important;
+}
+
+.logo{
+    width:64px !important;
+    height:64px !important;
+}
+
